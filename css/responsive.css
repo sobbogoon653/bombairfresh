@@ -1,0 +1,61 @@
+
+/* 1199px */
+@media only screen and (max-width:1199px){
+	#bannar .bannar_container_wrap h1{
+	    font-size: 3rem;
+	}
+	.navbar-brand img {
+	    width: 220px;
+	    height: 190px;
+	}
+	#about_us .about_info .section_title h1 {
+	    font-size: 2.6rem;
+	}
+	#about_us .about_info .info_down h2 {
+	    font-size: 1.6rem;
+	    line-height: 2.2rem;
+	    font-weight: 600;
+	}
+	#fake_add .section_title h1 {
+	    font-size: 2.6rem;
+	}
+	#fake_add .single_add h2 {
+	    font-size: 1.4rem;
+	    line-height: 2.2rem;
+	    font-weight: 600;
+	}
+	#contact_us .contact_info>.section_title h1 {
+	    font-size: 2.6rem;   
+	}
+}
+/* 991px */
+@media only screen and (max-width:991px){
+	#contact_us .contact_info h1 {
+	    font-size: 1.5rem;
+	    font-weight: 600;
+	    margin: 14px 0;
+	}
+	#contact_us .contact_info h2 {
+    	font-size: 1.3rem; 
+	}
+	#footer .footer_info h2 {
+	    font-size: 1.1rem; 
+	}
+	#footer .copyright p {
+	    font-size: 1rem;
+	}
+	.nav_bar_custom ul li:hover ul {
+	    left: 125px;
+	    top: 16px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
